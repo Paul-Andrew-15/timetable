@@ -15,16 +15,26 @@ Execute the program
 
 # CODE
 ~~~<!DOCTYPE html>
-<html>
-
+<html lang="en">
    <head>
-      <title>TIME TABLE</title>
-   </head>
+      <center><img src="C:\Users\ELCOT\Documents\MyProject\mysecondexperiment\timetable\image\logo.png" height="200" alt="LOGO"/>
+    </head>
+    <head>
+        <title>TIME TABLE</title>
+    </head>
 	
    <body>
-      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
+      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="silver" align="center">
+     
+    <tr>
+            <th colspan="10">TIME TABLE</th>
+         </tr>
+
          <tr>
-            <th colspan="8">TIME TABLE</th>
+            <th colspan="2">Reference Number:</th>
+            <th colspan="2">21500230</th>
+            <th colspan="2">Name:</th>
+            <th colspan="2">Paul Andrew.D</th>
          </tr>
          
          <tr>
@@ -32,26 +42,81 @@ Execute the program
             <th>1</th>
             <th>2</th>
             <th>3</th>
-             <th>4</th>
-            <th rowspan="6">lunch break</th>
+            <th>4</th>
+            <th rowspan="2">lunch break</th>
             <th>5</th>
             <th>6</th>
          </tr>
+
           <tr>
              <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
+             <td>19AI401/Obed Otto C</td>
+             <td>19AI401/Obed Otto C</td>
+             <td>19MA221/Archana S H</td>
+             <td>19MA221/Archana S H</td>
+             <td>19MA220/Archana S H</td>
+             <td>19MA220/Archana S H</td>
+         </tr>
+
+         <tr>
+             <td>TUESDAY</td>
              <td align="center">-</td>
-             <td align="center">EP</td>
+             <td align="center">-</td>
+             <td>19AI302/Sridhar S</td>
+             <td>19AI302/Sridhar S</td>
+             <td>ECA051-AD/Archana S H</td>
+             <td>19AI303/Sridhar S</td>
+             <td>19AI303/Sridhar S</td>
+         </tr>
+
+          <tr>
+             <td>WEDNESDAY</td>
+             <td>19EY701/Sneha Priya P</td>
+             <td>19EY701/Sneha Priya P</td>
+             <td>19AI301/Archana S H</td>
+             <td>19AI301/Archana S H</td>
+             <th rowspan="3">lunch break</th>
+             <td>19AI401/Obed Otto C</td>
+             <td>19AI401/Obed Otto C</td>
+         </tr>
+
+          <tr>
+             <td>THURSDAY</td>
+             <td>19AI303/Sridhar S</td>
+             <td>19AI303/Sridhar S</td>
+             <td>19AI301/Archana S H</td>
+             <td>19AI301/Archana S H</td>
+             <td>19AI302/Sridhar S</td>
+             <td>19AI302/Sridhar S</td>
+         </tr>
+
+           <tr>
+             <td>FRIDAY</td>
+             <td>19MC802/Muthupandian P</td>
+             <td>19MC802/Muthupandian P</td>
+             <td>19MA220/Archana S H</td>
+             <td>19MA220/Archana S H</td>
+             <td>19AI402/Obed Otto C</td>
+             <td>19AI402/Obed Otto C</td>
          </tr>
   
          
       </table>
       
+      <h2 align="center">Courses</h2>
+      <p  align="center">1.19AI401-Fundamentals of Web Technology</p>
+      <p  align="center">2.19AI402-Web Technology Laboratory</p>
+      <p  align="center">3.19MA221-Linear Algebra Laboratory</p>
+      <p  align="center">4.19MA220-Mathematics for Artificial Intelligence</p>
+      <p  align="center">5.19EY701-Soft Skills</p>
+      <p  align="center">6.19AI302-Engineering Design and Modelling</p>
+      <p  align="center">7.19AI303-Engineering Mechanics and Product  Development</p>
+      <p  align="center">8.19AI301-Python Programming</p>
+      <p  align="center">9.19MC802-Environmental Science</p>
+      <p  align="center">10.ECA051-AD-Mentoring-AD1</p>
    </body>
 </html>
+
 
 
 ~~~
