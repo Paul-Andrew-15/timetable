@@ -105,19 +105,13 @@ Execute the program
       <p  align="center">10.ECA051-AD-Mentoring-AD1</p>
    </body>
 </html>
-
-
-
 ~~~
 ## OUTPUT:
 ### CLIENT SIDE OUTPUT:
 <img src="output1.png"  alt="Output1"/>
 
-
 ### HTML VALIDATOR REPORT:
 <img src="HTML Validator.png" alt="Output2"/>
-
-
 
 ## RESULT:
 Thus, a webpage is created using html to display my timetable.
